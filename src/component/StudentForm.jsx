@@ -21,7 +21,7 @@ const handleSubmit = (values, { resetForm }) => {
   resetForm();
 };
 
-function StuFormReg() {
+function StudentForm() {
   return (
     <div className="bg-[#EFE2BA] p-6 sm:p-10 flex justify-center items-center flex-col container mx-auto min-h-screen">
       <h1 className="text-2xl sm:text-3xl lg:text-4xl mb-8 text-center font-bold">
@@ -105,4 +105,4 @@ function StuFormReg() {
   );
 }
 
-export default StuFormReg;
+export default StudentForm;
