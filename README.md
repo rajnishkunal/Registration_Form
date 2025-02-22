@@ -16,6 +16,9 @@ This is a **Student Registration Form** built using **React** with **Formik** an
 - **Yup** (Validation)
 - **Tailwind CSS** (Styling)
 
+## Project Live Vercel Link
+https://registration-form-8pxoog3be-kunal-rajnishs-projects.vercel.app/
+
 ## Installation & Usage
 Follow these steps to run the project:
 
